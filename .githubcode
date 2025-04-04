@@ -38,7 +38,7 @@ window:AddButton({
     callback = function()
         sendNotification("Spam Button If Not Teleported", "Keep clicking if teleport fails", 4)
         wait(1)
-        player.Character:PivotTo(CFrame.new(-346, 10, -49060)) 
+        player.Character:PivotTo(CFrame.new(-35\66, 10, -49080)) 
     end
 })
 
